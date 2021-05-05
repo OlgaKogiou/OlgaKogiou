@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlgaKogiou
-- 👀 I’m interested in open source projects and especially back-end
+- 👀 I’m interested in open source projects and especially back-end programming languages for apps
 - 🌱 I’m currently learning about Machine Learning 
 - 💞️ I’m looking to collaborate on new projects and ideas :) 
 - 📫 How to reach me: olg.kogiou@gmail.com
